@@ -85,7 +85,7 @@ ResultSet rs;//to execute the query
         jLabel5.setFont(new java.awt.Font("Bahnschrift", 0, 12)); // NOI18N
         jLabel5.setForeground(new java.awt.Color(255, 255, 255));
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel5.setText("<html> Submitted by: Abegail A. Clemente<br>Section: H2102<br>MO-IT110 - Object-oriented Programming </html>");
+        jLabel5.setText("<html> Submitted by: Group 4<br>Section: MO-IT113<br>MO-IT113 - Advanced Object-oriented Programming </html>");
 
         javax.swing.GroupLayout footerLayout = new javax.swing.GroupLayout(footer);
         footer.setLayout(footerLayout);
